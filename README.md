@@ -11,10 +11,18 @@
 * Низкая цена
 Мы на столько крутые, что уже успели поработать со следующими команиями:
 
-ООО «Рога и копыта»Издательство «Читый лист»Космопорт «Черезтерновый Кзвёздный»Дизайн-студия имени Слишком Известного Персонажа
+ООО «Рога и копыта»
+Издательство «Чиcтый лист»
+Космопорт «Черезтерновый Кзвёздный»
+Дизайн-студия имени Слишком Известного Персонажа
+
+```html <link rel="stylesheet"
+href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+integrity="sha284-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkF0JwJ8ERdknLPMO"
+crossorigin="anonymous"> 
+```
 
 Ниже пример кода из нашего приложения:
-
 '''.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red; 
